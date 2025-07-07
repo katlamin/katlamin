@@ -24,32 +24,6 @@ My name is Katelyn Lamin, and I am a Systems Development Technician working as a
 
 ---
 
-## 🧪 Atividades recentes
-
-<!-- GITHUB ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seuusuario&theme=react-dark&hide_border=false&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🏆 Conquistas e Níveis
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seuusuario&theme=discord&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🎮 Meu Nível como Dev
-
-<p align="center">
-  <img src="https://github-profile-level.vercel.app/api?username=seuusuario&style=flat" />
-</p>
-
----
-
-## 🐍 Snake animada dos commits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake commit animation" />
