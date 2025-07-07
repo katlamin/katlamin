@@ -1,6 +1,10 @@
-<h1><img src="https://media.tenor.com/Z-TKT6ZVvx4AAAAi/dance.gif" width="30"/> Hello, World ! </h1>
-========================================================================================
+<<h1 align="center">👩‍💻 Olá, mundo!</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Meu+nome+é+Katelyn+Lamin;Sou+Técnica+em+Desenvolvimento+de+Sistemas;Atualmente+atuo+como+Desenvolvedora+Fullstack+👩‍💻" alt="Typing animation" />
+</p>
+
+<hr style="border: 1px dashed #8A2BE2;">
 My name is Katelyn Lamin, and I am a Systems Development Technician working as a Fullstack Developer.  👩‍💻
 <div align="center"> <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Katlamin&repo=Katlamin&countColor=blue" alt="Contador de Visitantes" /> </div>
 ### Languages & Tools 🛠  
