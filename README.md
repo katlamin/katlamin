@@ -1,15 +1,9 @@
-<h1 align="center">✨ Olá, mundo! 👋</h1>
+<h1 align="center">  Hello, World ! 👋</h1>
 
 <p align="center">
 
-  <strong>My name is Katelyn Lamin |  Técnica em Desenvolvimento de Sistemas</strong> | <strong>Full Stack Developer</strong> 
+         <strong>My name is Katelyn Lamin |  Systems Development Technician</strong> | <strong>Full Stack Developer</strong> 👩‍💻
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Feito_com_💜_por-Katelyn_Lamin-8A2BE2?style=for-the-badge" />
-</p>
-
-<hr>
 
 <div align="center"> <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Katlamin&repo=Katlamin&countColor=blue" alt="Contador de Visitantes" /> </div>
 
