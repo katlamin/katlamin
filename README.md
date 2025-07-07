@@ -17,6 +17,6 @@
 <div align="center"> <!-- Línguas mais usadas --> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katlamin&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/> <!-- Estatísticas de commits (contribuições) --> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Katlamin&hide_border=true&theme=tokyonight"/> <!-- Estatísticas gerais --> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Katlamin&show_icons=true&count_private=true&theme=tokyonight"/> </div>
 
 ### Let's connect? 🤝 
-<a href="katelyn.faria@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>                                                                        <p align="center">
+<a href="mailto:katelyn.faria@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>                                                                        <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
