@@ -10,8 +10,8 @@
 
 <hr>
 
-My name is Katelyn Lamin, and I am a Systems Development Technician working as a Fullstack Developer.  👩‍💻
 <div align="center"> <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Katlamin&repo=Katlamin&countColor=blue" alt="Contador de Visitantes" /> </div>
+
 ### Languages & Tools 🛠  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,github,vscode,css" />
