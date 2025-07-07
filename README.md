@@ -1,10 +1,19 @@
-<<h1 align="center">👩‍💻 Olá, mundo!</h1>
+<h1 align="center">✨ Olá, mundo! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Meu+nome+é+Katelyn+Lamin;Sou+Técnica+em+Desenvolvimento+de+Sistemas;Atualmente+atuo+como+Desenvolvedora+Fullstack+👩‍💻" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F18EFF&center=true&vCenter=true&width=700&lines=Seja+bem-vindo+ao+meu+GitHub!;Eu+sou+Katelyn+Lamin+💻;Desenvolvedora+Full+Stack+apaixonada+por+tecnologia!+🚀" alt="Typing intro" />
 </p>
 
-<hr style="border: 1px dashed #8A2BE2;">
+<p align="center">
+  <strong>Técnica em Desenvolvimento de Sistemas</strong> | <strong>Full Stack Developer</strong> 👩‍💻
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Feito_com_💜_por-Katelyn_Lamin-8A2BE2?style=for-the-badge" />
+</p>
+
+<hr>
+
 My name is Katelyn Lamin, and I am a Systems Development Technician working as a Fullstack Developer.  👩‍💻
 <div align="center"> <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Katlamin&repo=Katlamin&countColor=blue" alt="Contador de Visitantes" /> </div>
 ### Languages & Tools 🛠  
