@@ -3,7 +3,10 @@
 
 My name is Katelyn Lamin, and I am a Systems Development Technician working as a Fullstack Developer.  👩‍💻
 
-<div align="center"> <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Katlamin&repo=Katlamin&countColor=blue" alt="Contador de Visitantes" /> </div>
+<div align="center"> <a href="https://github.com/Katlamin" target="_blank"> <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Katlamin&repo=Katlamin&countColor=%23237aeb&style=flat-square" alt="Contador de Visitantes" style="max-width: 100%;"> </a>
+<br><br>
+
+<img src="https://img.shields.io/badge/👀%20Visualizações-Contador%20ativo-blue?style=for-the-badge&logo=github" alt="Visualizações badge" /> </div>
 
 ### Languages & Tools 🛠  
 <p align="center">
