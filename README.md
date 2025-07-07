@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1><img src="https://i.pinimg.com/originals/31/a7/2a/31a72afda250825d993400c3ef28c55c.gif" width="30"/> Hello, World ! </h1>
+========================================================================================
 
-<!--
-**katlamin/katlamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Katelyn Lamin. I'm a Fullstack Developer.   👩‍💻
 
-Here are some ideas to get you started:
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Katlamin&repo=Katlamin&countColorcountColor)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Katlamin&layout=compact&count_private=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Katlamin&hide_border=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Katlamin&count_private=true&show_icons=true)
+
+### Let's connect? 🤝 
+ 
