@@ -1,10 +1,6 @@
 <h1 align="center">✨ Olá, mundo! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F18EFF&center=true&vCenter=true&width=700&lines=Seja+bem-vindo+ao+meu+GitHub!;Eu+sou+Katelyn+Lamin+💻;Desenvolvedora+Full+Stack+apaixonada+por+tecnologia!+🚀" alt="Typing intro" />
-</p>
-
-<p align="center">
   <strong>Técnica em Desenvolvimento de Sistemas</strong> | <strong>Full Stack Developer</strong> 👩‍💻
 </p>
 
