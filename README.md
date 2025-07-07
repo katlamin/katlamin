@@ -17,10 +17,6 @@ My name is Katelyn Lamin, and I am a Systems Development Technician working as a
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake commit animation" />
-</p>
-
 ### Let's connect? 🤝 
 <a href="katelyn.faria@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>                                                                        <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
