@@ -17,14 +17,6 @@ My name is Katelyn Lamin, and I am a Systems Development Technician working as a
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<!-- LINGUAGENS MAIS USADAS -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical&langs_count=8&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake commit animation" />
 </p>
