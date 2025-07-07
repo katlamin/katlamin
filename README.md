@@ -1,7 +1,8 @@
 <h1 align="center">✨ Olá, mundo! 👋</h1>
 
 <p align="center">
-  <strong>Técnica em Desenvolvimento de Sistemas</strong> | <strong>Full Stack Developer</strong> 
+
+  <strong>My name is Katelyn Lamin |  Técnica em Desenvolvimento de Sistemas</strong> | <strong>Full Stack Developer</strong> 
 </p>
 
 <p align="center">
