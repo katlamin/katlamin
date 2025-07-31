@@ -18,8 +18,7 @@
 
 ### Let's connect? 🤝 
 <a href="mailto:katelyn.faria@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  
-href="https://www.linkedin.com/in/thais-l-61300095/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-                                                                                                     /></a>                                                                        <p align="center">
+href="[(https://www.linkedin.com/in/katelyn-lamin-694738373/)](https://www.linkedin.com/in/katelyn-lamin-694738373/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>     <p align="center">
 
 
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
