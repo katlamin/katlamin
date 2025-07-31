@@ -2,7 +2,7 @@
 
 <p align="center">
 
-   <strong>My name is Katelyn Lamin |  Systems Development Technician</strong> | <strong>Full Stack Developer</strong> 👩‍💻
+   <strong> Meu nome é Katelyn Lamin | Cursando Técnico em Desenvolvimento de Sistemas | </strong> | <strong> Desenvolvedora Full Stack 👩‍💻</strong> 👩‍💻
 </p>
 
 <div align="center"> <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Katlamin&repo=Katlamin&countColor=blue" alt="Contador de Visitantes" /> </div>
